@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+}
+
+header {
+    background: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    background: white;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+.player {
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.player img {
+    width: 150px;
+    height: auto;
+    border-radius: 8px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
